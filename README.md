@@ -73,9 +73,10 @@ docker compose run --rm telegram alembic upgrade head ;  docker compose stop dat
 ### Planned features and fixes
 Do not hope that this will be soon, tho
 
-1. Cleanup 
-2. More customisible texts for the transaction
-3. Remake for pure solana rpc calls and some basic notifications for this
+1. Cleanup
+2. Logging (sorry)
+3. More customisible texts for the transaction
+4. Remake for pure solana rpc calls and some basic notifications for this
 
 ---
 > #### For any questions, feel free to contact me as you wish, I very bad at social networking.
